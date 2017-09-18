@@ -24,7 +24,7 @@ class GuessingGame
 
     greater() 
     {
-        this.min = this.mid + 1;
+        this.min = this.mid;
 
     }
 }
